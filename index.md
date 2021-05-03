@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Exploration of Bike Rental Rates in MAjor Metropolitan Cities
 
 You can use the [editor on GitHub](https://github.com/bwalsh5/github_pages_test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
